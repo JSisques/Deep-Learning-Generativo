@@ -1,0 +1,10 @@
+python-dotenv
+kaggle
+matplotlib
+numpy
+ipython
+nbconvert
+jupyter
+path
+scipy
+tensorflow-directml-plugin
