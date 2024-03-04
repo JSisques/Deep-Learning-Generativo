@@ -9,3 +9,4 @@ path
 scipy
 tensorflow-directml-plugin
 pandas
+music21
